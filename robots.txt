@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://potecari-lp-public.vercel.app/sitemap.xml
